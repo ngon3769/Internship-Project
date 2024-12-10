@@ -1,5 +1,7 @@
 # Internship-Project
 
+I can't have the code or project documents linked here because of company policy, but I will describe it in as much detail as remember and am allowed to.
+
 ## Background
 
 I was a Software Engineer Intern at an Enterprise Software company from May-Aug 2024. As a company that makes software for other companies to use,
