@@ -37,4 +37,4 @@ At the midpoint of my 12-week internship, I gave a presentation to my team and s
 
 I completed all the project tasks by week 10, and spent week 11 trying to refactor an existing use case (a bulk email sending job) to use the new workflow and validate that it works end-to-end.
 
-Finally, in week 12, I gave a final presentation on the completed project and it was pushed to prodcution.
+Finally, in week 12, I gave a final presentation on the completed project and it was pushed to production.
